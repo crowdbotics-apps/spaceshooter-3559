@@ -1,0 +1,3 @@
+rootProject.name = 'spaceshooter_3559'
+
+include ':app'
